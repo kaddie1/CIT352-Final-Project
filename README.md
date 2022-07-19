@@ -47,5 +47,13 @@ apt-get install postgresql and press enter.
 # HOW TO ALLOW NODEJS TO ALWAYS START ON BOOT OF THE OS
 
 
-
 # INSTALLING EXPRESS ON UBUNTU 18
+
+1. Ensure nodejs is installed before doing these steps.
+2. Create a directory to contain your application and then change into the created directory
+
+![image](directory.png)
+
+3. Install npm by typing the command apt install npm.
+4. Type the command npm init to create a package.json file.
+
