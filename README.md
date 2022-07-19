@@ -34,11 +34,11 @@ apt-get install postgresql and press enter.
 3.	Do you want to continue prompt will be displayed type y and press enter.
 4.	Allow nodejs installation to continue until successfully installed.
 
-![image](nodejs_confirmation.png)
+
 
 5.	Check to see if it has been successfully installed by typing the following command at the command prompt apt list - -installed | grep nodejs and press enter.
 
-![image](checkif_postgresisinstalled.png)
+![image](nodejs_confirmation.png)
 
 6.	If you would like to see the version of nodejs that is installed. At the command prompt type node -v and press enter.
 
