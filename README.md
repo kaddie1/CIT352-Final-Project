@@ -56,4 +56,7 @@ apt-get install postgresql and press enter.
 
 3. Install npm by typing the command apt install npm.
 4. Type the command npm init to create a package.json file.
+5. Install express by typing the command npm install express
+
+![image](express_install.png)
 
