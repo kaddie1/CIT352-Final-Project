@@ -8,6 +8,9 @@
 
 2.	After you have logged in as root, at the command prompt type the following command
 apt-get install postgresql and press enter.
+
+![Image](root_postgresql.png)
+
 3.	Allow the software to be successfully installed.
 4.	Check to see if it has been successfully installed by typing the following command at the command prompt apt list - -installed | grep postgres and press enter.
 
