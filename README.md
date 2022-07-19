@@ -2,7 +2,7 @@
 # TUTORIAL FOR INSTALLING POSTGRESQL, NODEJS AND EXPRESS ON UBUNTU 18
 
 # INSTALLING POSTGRESQL ON UBUNTU 18
-![Image] (root_postgresql.png)
+![Image](root_postgresql.png)
 1.	Log into you ubuntu 18 as root and enter password
 2.	After you have logged in as root, at the command prompt type the following command
 apt-get install postgresql and press enter.
