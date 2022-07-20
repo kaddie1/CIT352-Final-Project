@@ -63,9 +63,13 @@ apt-get install postgresql and press enter.
 
 ![image](express_installed.png)
 
-6. Type vi index.js to edit this file
+6. Go into the directory that you had created in #2. 
+7. Create a file name tutorial by typing touch tutorial.js
+8. Modify the file by typing vi tutorial.js
+9. Type this code below in the tutorial.js file and save
 
-8. Type this in the index.js file and save
+![image](vi_json.png)
 
-
+10. To run the app, type node tutorial.js and press enter
+11. To see the output type curl http://localhost:3000/
 
