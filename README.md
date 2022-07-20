@@ -64,7 +64,7 @@ apt-get install postgresql and press enter.
 ![image](express_installed.png)
 
 6. Go into the directory that you had created in #2. 
-7. Create a file name tutorial by typing touch tutorial.js
+7. Create a file name tutorial.js by typing touch tutorial.js
 8. Modify the file by typing vi tutorial.js
 9. Type this code below in the tutorial.js file and save
 
