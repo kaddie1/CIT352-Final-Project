@@ -55,8 +55,27 @@ apt-get install postgresql and press enter.
 ![image](directory.png)
 
 3. Install npm by typing the command apt install npm.
-4. Type the command npm init to create a package.json file.
+4. Type the command npm init, press enter and input required information to create a package.json file.
+
+![image](npm_init_direction.png)
+
 5. Install express by typing the command npm install express
 
 ![image](express_installed.png)
 
+6. Type vi index.js to edit this file
+
+8. Type this in the index.js file and save
+
+![image](vi_json.png)
+const express = require('express')
+const app = express()
+const port = 3000
+
+app.get('/', (req, res) => {
+  res.send('Hello World!')
+})
+
+app.listen(port, () => {
+  console.log(`Example app listening on port ${port}`)
+})
